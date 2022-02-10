@@ -2,7 +2,7 @@
 --                                               BTEX(Bottom TEXture)                                 --
 --                                            V2.0 - 2021 by Zetaprime82                              --
 --                                            Former Author: Twistedfury                              --
---							                           originally from Tiggy, Ysondre-EU                          --
+--                                         originally from Tiggy, Ysondre-EU                          --
 --------------------------------------------------------------------------------------------------------
 --                                              VARIABLES & MISC                                      --
 --------------------------------------------------------------------------------------------------------

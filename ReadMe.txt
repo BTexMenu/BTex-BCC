@@ -1,5 +1,5 @@
 **********************
-BTex BCC version 2.5.3
+BTex BCC version 2.5.4
 **********************
 
 What is it? :
